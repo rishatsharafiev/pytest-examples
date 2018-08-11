@@ -15,3 +15,8 @@ pytest --version
 ```
 pytest -q
 ```
+
+Список встроенных фикстур
+```
+pytest -q --fixtures
+```
